@@ -1,4 +1,4 @@
-# training-html-base-template-with-typescript-3qrgpz
+# training-html
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/training-html)
 
